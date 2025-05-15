@@ -1,0 +1,86 @@
+{
+  "klients": [
+    {
+      "Balance": 1000,
+      "Transports": null,
+      "Id": 1,
+      "Imie": "cania0",
+      "Password": "haslo789"
+    }
+  ],
+  "mechanik": [
+    {
+      "StawkaGodzinowa": 50,
+      "AddCzas": 5,
+      "Id": 1,
+      "Imie": "cania",
+      "Password": "haslo123"
+    }
+  ],
+  "sta\u017Cysta": [
+    {
+      "StawkaGodzinowa": 20,
+      "AddCzas": 1,
+      "Id": 2,
+      "Imie": "cania-1",
+      "Password": "haslo123"
+    }
+  ],
+  "admin": [
+    {
+      "StawkaGodzinowa": 100,
+      "AddCzas": 40,
+      "Id": 3,
+      "Imie": "admin",
+      "Password": "admin123"
+    }
+  ],
+  "samoch\u00F3d": [
+    {
+      "Id": 1,
+      "Marka": "Mazda",
+      "Model": "MX5",
+      "Rejestracja": "1289087",
+      "Waga": 1200,
+      "PojemnoscSilnika": 2,
+      "Przebieg": 150000,
+      "status": 0,
+      "KosztNaprawu": 500
+    },
+    {
+      "Id": 2,
+      "Marka": "Ford",
+      "Model": "Mustang",
+      "Rejestracja": "M2313r",
+      "Waga": 1300,
+      "PojemnoscSilnika": 2.2,
+      "Przebieg": 140000,
+      "status": 1,
+      "KosztNaprawu": 700
+    },
+    {
+      "Id": 3,
+      "Marka": "Honda",
+      "Model": "NSX",
+      "Rejestracja": "s12swwe2",
+      "Waga": 1100,
+      "PojemnoscSilnika": 1.6,
+      "Przebieg": 100000,
+      "status": 4,
+      "KosztNaprawu": 300
+    }
+  ],
+  "motocykl": [
+    {
+      "Id": 1,
+      "Marka": "Yamaha",
+      "Model": "R1M",
+      "Rejestracja": "23ewa23",
+      "Waga": 200,
+      "PojemnoscSilnika": 0.3,
+      "Przebieg": 50000,
+      "status": 3,
+      "KosztNaprawu": 1500
+    }
+  ]
+}

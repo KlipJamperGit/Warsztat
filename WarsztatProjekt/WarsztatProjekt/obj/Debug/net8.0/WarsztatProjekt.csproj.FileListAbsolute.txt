@@ -1,0 +1,14 @@
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\bin\Debug\net8.0\WarsztatProjekt.exe
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\bin\Debug\net8.0\WarsztatProjekt.deps.json
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\bin\Debug\net8.0\WarsztatProjekt.runtimeconfig.json
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\bin\Debug\net8.0\WarsztatProjekt.dll
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\bin\Debug\net8.0\WarsztatProjekt.pdb
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.dll
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\refint\WarsztatProjekt.dll
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.pdb
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\WarsztatProjekt.genruntimeconfig.cache
+C:\Users\Bogdan\source\repos\WarsztatProjekt\WarsztatProjekt\obj\Debug\net8.0\ref\WarsztatProjekt.dll
